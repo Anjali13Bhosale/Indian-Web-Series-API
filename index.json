@@ -1901,6 +1901,24 @@
     "seasons": 1,
     "releaseDate": {
       "S1": "16 december 2021"
-    }
-  }
+    },
+  {
+    "id": 98,
+    "name": "Hello Mini",
+    "rating": 8.2,
+    "description": "A thriller drama series, revolving around Rivanah Bannerjee, an independent girl, living alone in Mumbai",
+    "category": ["Thriller", "Drama"],
+    "platform": "MxPLayer",
+    "casting": {
+      "actors": [
+        "Mrinal Dutt", "Anshul Pandey",
+         "Anuja Joshi","Summer Jacobs", "Nirisha Basnett", "Anjuman Saxena"
+      ], 
+      "director": ["Faruk Kabir"]
+    },
+    "poster": "https://i.pinimg.com/736x/d6/50/f8/d650f83718fa34b112f53180c19e252b.jpg",
+    "episodeCount": 10,
+    "seasons": 3,
+    "releaseDate": "01-10-2019"
+  },
 ]
